@@ -1,0 +1,5 @@
+akos 500
+balint 200
+peti 80
+oogwaymester 1000
+paplevi 1

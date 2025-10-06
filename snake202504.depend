@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1747410917 source:c:\users\Ákos\downloads\teszt\snake202504\main.cpp
+	"memtrace.h"
+	<iostream>
+	"MainMenu.h"
+	"Player.h"
+	"Snake.h"
+	"Field.h"
+	"Game.h"
+	"Targy.h"
+	<cassert>
+
+1744028550 source:c:\users\Ákos\downloads\teszt\snake202504\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1744028550 c:\users\Ákos\downloads\teszt\snake202504\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1745873058 c:\users\Ákos\downloads\teszt\snake202504\string5.h
+	<iostream>
+
+1746987688 source:c:\users\Ákos\downloads\teszt\snake202504\string5.cpp
+	<iostream>
+	<cstring>
+	"memtrace.h"
+	"string5.h"
+
+1747403221 source:c:\users\Ákos\downloads\teszt\snake202504\player.cpp
+	"memtrace.h"
+	"Player.h"
+
+1746989015 c:\users\Ákos\downloads\teszt\snake202504\player.h
+	"memtrace.h"
+	"string5.h"
+
+1746989011 c:\users\Ákos\downloads\teszt\snake202504\mainmenu.h
+	"memtrace.h"
+	"Player.h"
+
+1746879496 source:c:\users\Ákos\downloads\teszt\snake202504\field.cpp
+	"Field.h"
+
+1747403458 source:c:\users\Ákos\downloads\teszt\snake202504\game.cpp
+	"memtrace.h"
+	<iostream>
+	"Game.h"
+	"Player.h"
+	<conio.h>
+	<windows.h>
+
+1747399528 c:\users\Ákos\downloads\teszt\snake202504\game.h
+	"memtrace.h"
+	"Player.h"
+	"Snake.h"
+	"Field.h"
+	"Targy.h"
+
+1747406575 c:\users\Ákos\downloads\teszt\snake202504\snake.h
+	"memtrace.h"
+	<iostream>
+
+1746882900 c:\users\Ákos\downloads\teszt\snake202504\field.h
+	"memtrace.h"
+
+1747400548 c:\users\Ákos\downloads\teszt\snake202504\targy.h
+	"memtrace.h"
+	<iostream>
+	"Snake.h"
+
+1747397547 source:c:\users\Ákos\downloads\teszt\snake202504\snake.cpp
+	"memtrace.h"
+	<iostream>
+	"Snake.h"
+
+1747323607 source:c:\users\Ákos\downloads\teszt\snake202504\mainmenu.cpp
+	"memtrace.h"
+	"MainMenu.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<windows.h>
+	"string5.h"
+	"Player.h"
+	"Game.h"
+
+1747304567 source:c:\users\Ákos\downloads\teszt\snake202504\targy.cpp
+	"memtrace.h"
+	"Targy.h"
+
